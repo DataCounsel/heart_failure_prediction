@@ -1,4 +1,4 @@
-# Heart Failure Preiction
+# Heart Failure Prediction
 
 ###  <ins> Project Objective</ins>
 
